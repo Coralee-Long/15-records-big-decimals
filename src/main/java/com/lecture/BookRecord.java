@@ -1,4 +1,4 @@
-package com.nf;
+package com.lecture;
 
 public record BookRecord(String ISBN,
                          String title,

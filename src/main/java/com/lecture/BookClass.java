@@ -1,4 +1,4 @@
-package com.nf;
+package com.lecture;
 
 import java.util.Objects;
 
